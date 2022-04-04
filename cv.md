@@ -2,6 +2,8 @@
 
 ## Junior Frontend Developer
 
+![Profile photo](https://avatars.githubusercontent.com/u/89599903?s=400&u=46f3dc3a06d13a2397261e51bc6b37d38d099c76&v=4)
+
 ### Contacts
 
 - Name in RS School Discord chanel: **Nureles Abdullaev (@Nurreles)**
